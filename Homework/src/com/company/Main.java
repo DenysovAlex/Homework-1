@@ -11,6 +11,7 @@ public class Main {
         String i2 = "" + i;
         {
             System.out.println(i2);
+            return i2;
         }
     }
 
@@ -75,33 +76,35 @@ public class Main {
 
 //Задание 7. Дано число, означающее время в секундах. Вывести время в днях, часах, минутах и секундах.
 
-    public static String task7(int second) {
+    public static void task7(int second) {
         int day = second / 86400;
         int hour = second / 3600;
         int minute = second / 60;
         int second1 = second;
         {
             System.out.println("day.hours.minute.second1");
-        }
-
-
-        // Задача 9.  Дан радиус круга. Вычислить площадь круга, длину окружности.
-
-        public static String Circle (int i); {
-            double area = Math.PI * (i * i);
-            System.out.println("Площадь круга равна");
-            double circumference = Math.PI * 2 * i;
-            System.out.println("Длины окружности равна");
+            return;
         }
     }
 }
 
+        // Задача 9.  Дан радиус круга. Вычислить площадь круга, длину окружности.
 
+        class AtHome {
+            public void main(int x) {
+                double Pi = 3.14;
+                {
+                    double x1 = Pi * (x * x);
+                    System.out.println(x1);
+                    double x2 = Pi * x;
+                    System.out.println(x2);
+                }
+            }
+        }
 
 // Задание 10. Имеется прямоугольное отверстие размерами a и b (входные параметры),
 // определить, можно ли его полностью закрыть круглой картонкой радиусом r (входной параметр).
 // (добавить проверку на отрицательные значения) Результат - boolean.
-
 
 
 // Задание 8.    Дана строка, вернуть строку, содержащую по очереди заглавные и строчные буквы.
