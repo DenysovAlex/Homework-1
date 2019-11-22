@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="191fabbc-37e6-415a-8f4a-ec1d4e0b86bb" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/company/AtHome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/com/company/AtHome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework/com/company/Main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +33,13 @@
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/com/company" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1TNoxckXcv85HSNLBR2FR4l11f2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="TODO_SCOPE" value="Project Files" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
@@ -73,7 +77,7 @@
     </configuration>
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",SHOW_INTERFACES,SHOW_PROPERTIES,SHOW_FIELDS,SHOW_NON_PUBLIC,SHOW_INHERITED,SHOW_ANONYMOUS,SHOW_LAMBDA" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INTERFACES,SHOW_PROPERTIES,SHOW_FIELDS,SHOW_NON_PUBLIC,SHOW_INHERITED,SHOW_ANONYMOUS,SHOW_LAMBDA,VISIBILITY_SORTER" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
